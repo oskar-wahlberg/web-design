@@ -14,5 +14,5 @@ ___
 ## Notes
 
 * Anything created via this repo is open for everyone to use, if you don't want anyone else using your design, don't put it here.
-* If you start to work on a new design, finish it. We don't want to fill up the project with a bunch of unused files.
+* If you start to work on a new design, finish it. We don't want to fill up the project with a bunch of unused files, that also includes making your page responsive for both mobile and computer screens.
 * Use correct syntax for your code. If you are unsure if it is correct, ask someone to review it.
